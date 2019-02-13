@@ -1,0 +1,3 @@
+# Django - Getting Started
+
+This repo is based on the tutorial project that may be found [here](https://docs.djangoproject.com/en/2.1/intro/) for building a Django based website. The `non-refactored` branch is a snapshot of the code up through the end of part 3 of the tutorial, before refactoring to reduce code redundancy. The advantage of this branch is that it demonstrates some of the 'longform' principles of how to set up the various components of a Django based project.
